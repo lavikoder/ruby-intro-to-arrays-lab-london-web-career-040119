@@ -19,3 +19,7 @@ def third_element(array)
   my_third_element = array[2]
   return my_third_element
 end
+
+def last_element(array)
+  array = ["Welcome to New York", "mortar", "Style", "house", "mansion"]
+  my_last_element = array[-1]
