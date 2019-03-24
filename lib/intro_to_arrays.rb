@@ -27,8 +27,9 @@ def last_element(array)
 end
 
 
-def first_element(array)
+def first_element_with_array_methods(array)
     array = ["Welcome to New York", "mortar", "wall", "house", "mansion"]
   my_first_element = array.first
   return my_first_element
 end
+
