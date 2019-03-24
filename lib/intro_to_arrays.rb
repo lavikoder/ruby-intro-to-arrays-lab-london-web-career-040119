@@ -29,6 +29,6 @@ end
 
 def first_element(array)
     array = ["Welcome to New York", "mortar", "wall", "house", "mansion"]
-  my_first_element = array[0]
+  my_first_element = array.first
   return my_first_element
 end
