@@ -9,7 +9,7 @@ def array_with_two_elements
 end
 
 def first_element(array)
-  array = ["Welcome to New York", "mortar", "wall", "house", "mansion"]
+    array = ["Welcome to New York", "mortar", "wall", "house", "mansion"]
   my_first_element = array[0]
   return my_first_element
 end
@@ -21,5 +21,7 @@ def third_element(array)
 end
 
 def last_element(array)
-  array = ["Welcome to New York", "mortar", "Style", "house", "mansion"]
+    array = ["Welcome to New York", "mortar", "Style", "house", "mansion"]
   my_last_element = array[-1]
+  return my_last_element
+end
