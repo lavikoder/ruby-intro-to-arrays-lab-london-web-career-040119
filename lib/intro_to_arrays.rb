@@ -22,8 +22,8 @@ end
 
 def last_element(array)
     array = ["Welcome to New York", "mortar", "Style", "house", "Out of The Woods"]
-  length = array.length
-  return length
+  my_last_element = array[-1]
+  return my_last_element
 end
 
 
