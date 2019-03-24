@@ -16,6 +16,6 @@ end
 
 def my_third_element(array)
     array = ["Welcome to New York", "mortar", "wall", "house", "mansion"]
-  my_third_element = array[2]
+  third_element = array[2]
   return my_third_element
 end
