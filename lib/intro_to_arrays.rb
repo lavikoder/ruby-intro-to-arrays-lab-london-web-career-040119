@@ -25,3 +25,10 @@ def last_element(array)
   my_last_element = array[-1]
   return my_last_element
 end
+
+
+def first_element(array)
+    array = ["Welcome to New York", "mortar", "wall", "house", "mansion"]
+  my_first_element = array[0]
+  return my_first_element
+end
