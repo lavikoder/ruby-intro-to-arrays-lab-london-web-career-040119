@@ -21,7 +21,7 @@ def third_element(array)
 end
 
 def last_element(array)
-    array = ["Welcome to New York", "mortar", "Style", "house", "Out of the Woods"]
+    array = ["Welcome to New York", "mortar", "Style", "house", "Out of The Woods"]
   my_last_element = array[-1]
   return my_last_element
 end
