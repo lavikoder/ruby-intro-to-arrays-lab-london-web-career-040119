@@ -38,3 +38,9 @@ def last_element_with_array_methods(array)
   my_last_element = array[-1]
   return my_last_element
 end
+
+def length_of_array(array)
+    array = ["Welcome to New York", "mortar", "Style", "house", "Myanmar"]
+  my_last_element = array[-1]
+  return my_last_element
+end
