@@ -10,5 +10,5 @@ end
 
 def first_element
   my_first_element = ["brick", "mortar", "wall", "house", "mansion"]
-  return first_element[0]
+  return my_first_element[0]
 end
