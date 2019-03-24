@@ -34,7 +34,7 @@ def first_element_with_array_methods(array)
 end
 
 def last_element_with_array_methods(array)
-    array = ["Welcome to New York", "mortar", "Style", "house", "Out of The Woods"]
+    array = ["Welcome to New York", "mortar", "Style", "house", "Myanmar"]
   my_last_element = array[-1]
   return my_last_element
 end
